@@ -1,0 +1,30 @@
+           case study omnifood
+
+goal of the project: show what omnifood does, how it works and in which citeis it operates in, then, make people sign up on a subscription plan.
+
+
+audience: busy people who dont have time to cook or don't like cooking.
+
+
+
+
+2) planning out the website
+
+ we will build a one page webpage containing information provided by omnifood, with simple navigation to guild us through the page
+
+
+the content was provided by omnifood in form of a text document and some images downloaded to our system
+
+
+navigation was provided by omnifood in a text document
+
+
+
+
+
+3) get inspired and sketch out your ideas
+
+
+
+4) color and font --> for the color we are using orange and lato font
+

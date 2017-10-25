@@ -1,0 +1,309 @@
+note about building responsive web design
+
+typography 
+
+
+
+use a font size of between 15 and 25 pixels for body text
+
+there is no maximum  amount of pixel that is too big for the heading but 60 to 80 should be fine and make sure to reduce the font weight so that it wont still all the attention and to make your work more modern
+
+use line spacing between 120 and 150% of the font size
+
+
+45 to 90 characters per line is good 75 ok
+
+in font google font is good sans and sans - sarif are good, sans- serif open sans, lato, raleway, monsterrat, pt sans,    serif (red serifs)  cardo, merriweather, pt serif, as a beginner it is advisable to use only one type of font for a project
+
+
+
+
+Beautiful Typography
+
+1. Use a font-size between 15 and 25 pixels for body text
+
+2. Use (really) big font sizes for headlines
+
+3. Use a line spacing between 120 and 150% of the font size
+
+4. 45 to 90 characters per line
+
+5. Use good fonts
+
+6. Chose a font which reflects the look and feel you want for your website
+
+7. Use only one font
+
+
+
+
+
+
+
+
+
+                              colors
+
+ 
+ use only one base color by that i mean using any other color apart from the normal white black white and shade of gray
+
+flatuicolors.com has some good colors just copy the color and paste 
+
+it is important that you make a color pallete so as to brighten or darken your color
+
+if you want to mix multiple color use tool like adobe color cc  from    https://color.adobe.com/create/color-­‐wheel/   and paletton   from  paletton.com
+
+you can use a main color to draw attention to important things on your website eg like the call to action button
+
+never use black color in any part of your design
+
+choose color wisely as colors had their own deep meaning read  more on color theory  for more of the  meaning a brief on color theory
+
+Picking a color for a website means more then picking your favorite color and turning it into a design. It means picking the right color in order to get the desired response from your audience. Color really makes a difference. This happens because there are psychological effects behind each color.
+
+
+Red is a great color to use when power, passion, strength and excitement want to be transmitted. Brighter tones are more energetic and darker shades are more powerful and elegant.
+
+Orange draws attention without being as overpowering as red. It means cheerfulness and creativity. Orange can be associated with friendliness, confidence, and courage.
+
+Yellow is energetic and gives the feeling of happiness and liveliness. Also, it associates with curiosity, intelligence, brightness, etc.
+
+Green is the color of harmony, nature, life and health. Also, it is often associated with money. In design, green can have a balancing and harmonizing effect.
+
+Blue means patience, peace, trustworthiness, and stability. It is one of the most beloved colors, especially by men. It is associated with professionalism, trust and honor. That's actually why the biggest social networks use blue.
+
+Purple is traditionally associated with power, nobility and wealth. In your design, purple can give a sense of wisdom, royalty, nobility, luxury, and mystery.
+
+Pink expresses romance, passivity, care, peace, affection, etc.
+
+Brown is the color of relaxation and confidence. Brown means earthiness, nature, durability, comfort, and reliability.
+
+ 
+            
+
+              Using Colors Like a Pro
+
+
+1. Use only one base color
+
+2. Use a tool if you want to use more colors
+
+3. Use color to draw attention
+
+4. Never use black in your design
+
+5. Choose colors wisely
+
+
+
+
+
+
+                  
+
+                   image
+
+
+
+
+put text directly on the image
+but you can only achieve this when the image is dark and your text is white if your image is bright and your text is white people cant read your text properly
+
+
+
+put your text in a box as this will make your text stand out and easy to read
+
+
+blur the image  and make sure the text are in the blur image part
+
+
+the floor fade
+the floor fade means that at the end of the image it should be faded dark so as white text should be inserted on it for easy readability. 
+for more on where to get great image check the ebook
+
+
+
+
+         
+         Working with Images
+
+
+1. Put text directly on the image
+
+2. Overlay the image
+
+3. Put your text in a box
+
+4. Blur the image
+
+5. The floor fade
+
+
+
+
+        
+
+
+
+                        icons
+
+
+ 
+your can use icons to list features/steps of your website or a product that you are selling or step user should follow in other to achieve some goal
+
+icon quickly let the user know what your website is all about
+
+use icons for actions and links
+
+                                rules for icons
+
+icons should be recognizable
+
+label your icon
+
+icons should not take the center stage of your design (it should not be much and everywhere)it should be use for supportint illustration in your website 
+
+use icon font instead of normal image font, icon font use vector image unlike the image font 
+
+for more info  about font check the ebook
+
+                 
+                 Working with icons
+
+ 
+1. Use icons to list features/steps
+
+2. Use icons for actions and links
+
+3. Icons should be recognizable
+
+4. Label your icons
+
+5. Icons should not take a center stage
+
+6. Use icon fonts whenever possible
+
+
+
+
+
+
+                                      spacing and layout
+
+to make a good and beautiful website your need alot of white space. white space are those space in your website where there isnt any stuff
+
+
+use whitespace
+
+                                  guidline in using whitespace
+
+
+
+put whitespace between your element
+
+put whitespace between your your group of element
+
+put whitespace between your website section but dont exergerate it,too much whitespace in your element is bad because they can loose the relationship between one another be carefull with this
+
+
+
+
+2  define  hierarchy
+
+white space discribe invisible relationship between the  element in your website, and this is closely related to visual hierarchy, this is the organization of your content  hierarchy give your website order
+
+
+                            guidline in hierarchy 
+
+
+define where you want the audience to look first
+
+estaiblish a flow that correspond to your content message
+
+use whitespace to build that flow
+
+
+                 Spacing and layout
+
+1. Put whitespace between your elements
+
+2. Put whitespace between your groups of elements
+
+3. Put whitespace between you website's sections
+
+4. Define where you want your audience to look first
+
+5. Establish a flow that corresponds to your content's message
+
+6. Use whitespace to build that flow              
+
+
+
+
+
+
+                               user experience
+
+
+
+user interface is the designing of presentation of product how it looks and feels
+
+
+user experience is the overall experience a user have with a product  user experience also include the user interface but also have to understand the full picture of the product                               
+
+for more on this visit the ebook to know more about user interface and experience 
+
+
+
+
+
+
+
+
+
+
+
+
+                          getting inspired 
+
+you dont have to reinvent every thing from scratch like layout, user experience element such as botton navigation bar  etc
+
+use other website as inspiration to  see what other  leading designer are doing right
+
+
+                 steps to follow 
+
+collect design that you like 
+
+try to understand everything about them  by answering these question below
+
+why do they look good
+
+what do this site have in common
+
+how where they built in html and css to know about this use the chrome developer tool
+
+
+
+   steal like an artist 
+
+   as  a beginneer it is okay to copy some design from some site that you like or feel like its well design and work more on it but dont let this be obvious
+
+
+   dribble is a good place for designer inspiration for more see the ebook
+
+
+
+
+                            section summary
+
+
+Let's quickly summarize the main content of the web design section:
+
+Most of your content will be text, so beautiful typography is a key element to a good looking website.
+Images are getting more and more important in webdesign, so choosing great images and putting text on them is an essential part of your work.
+Icons are also a good way of setting a friendly tone for your website, but use them carefully.
+The adequate use of whitespace makes a website look professionally designed, so use it a lot, but in the correct way.
+Build a layout by defining the visual hierarchy of your content. Whitespace is also important for this.
+Your website should be designed in a way that ensures that both the user and the owner of the website achieve their goals. This is the user experience.
+It is very important that you get inspired by studying well-designed websites from other designers.
